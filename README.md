@@ -12,7 +12,7 @@ PS: Se você acertar na primeira tentativa, o texto é diferente e com uma pegad
 
 Além disso, o projeto utiliza a API ResponsiveVoice para converter o texto em voz, tornando o jogo mais acessível e inclusivo.
 
-Para testá-lo sem precisar baixar os arquivos, apenas acesse este link.
+Para testá-lo sem precisar baixar os arquivos, apenas [acesse este link](https://jogo-do-numero-misterioso.vercel.app/).
 
 ### Tela
 
