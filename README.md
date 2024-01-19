@@ -4,7 +4,7 @@ Este projeto é o desenvolvimento de um jogo educativo que me ensinou os conceit
 
 ### Como ele funciona? 
 
-O número a ser descoberto é aleatório e gerado com o Math.random. O jogo usa condicionais e funções para verificar se a resposta do usuário está certa ou errada, e altera o texto na tela com o querySelector de acordo com o resultado, e ainda conta e exibe as suas tentativas.
+O número a ser descoberto é aleatório e gerado com o Math.random. O jogo usa condicionais e funções para verificar se a resposta do usuário está certa ou errada, e altera o texto na tela com o querySelector de acordo com o resultado, e ainda conta e exibe as suas tentativas quando você acerta o número.
 
 O código támbem conta com um Array que armazena o número sorteado a cada rodada, e faz uma verificação a cada novo jogo nesse vetor, evitando que o mesmo número se repita muitas vezes.
 
