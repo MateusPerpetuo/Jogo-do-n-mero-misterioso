@@ -14,7 +14,7 @@ Além disso, o projeto utiliza a API ResponsiveVoice para converter o texto em v
 
 Para testá-lo sem precisar baixar os arquivos, apenas [acesse este link](https://jogo-do-numero-misterioso.vercel.app/).
 
-### Tela
+## Tela
 
 ![image](https://github.com/MateusPerpetuo/Jogo-do-numero-misterioso/assets/129229556/3c339b5f-fbc4-4b4c-ae44-3a973e5818bf)
 
